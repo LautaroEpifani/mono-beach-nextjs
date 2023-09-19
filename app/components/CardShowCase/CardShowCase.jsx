@@ -1,3 +1,4 @@
+"use client"
 import { useEffect, useState } from "react";
 import { CardContainer, CardImage, CardSliderContent, CardSliderWrapper, CardTitle, SliderButton, SliderContainer } from "./StyledCardShowCase";
 

@@ -1,3 +1,4 @@
+"use client"
 import { useRef } from "react";
 import lemon from "../../../assets/home/lemon.mp4";
 import poster from "../../../assets/home/poster.jpg";

@@ -1,3 +1,4 @@
+"use client"
 import {  useState } from 'react';
 import hero from '../../../assets/home/mono-hero.jpg'
 
