@@ -1,8 +1,7 @@
-import Image from 'next/image'
-import Hero from './components/Home/Hero/Hero'
-import About from './components/Home/About/About'
-import CardShowCase from './components/CardShowCase/CardShowCase'
-import Video from './components/Home/Video/Video'
+import Hero from './components/Home/Hero'
+import About from './components/Home/About'
+import CardShowCase from './components/Home/CardShowCase'
+import Video from './components/Home/Video'
 
 export default function Home() {
   return (

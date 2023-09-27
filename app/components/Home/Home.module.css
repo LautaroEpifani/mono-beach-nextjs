@@ -1,0 +1,18 @@
+.bgCustom {
+    background-image: url('/assets/home/mono-hero.jpg');
+    background-size: 100%;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-color: rgba(0, 0, 0, 0.5); 
+  }
+
+.containerGradientAbout {
+  border: 5px solid transparent;
+  border-image: linear-gradient(to bottom,  #deb874 70%, #222222 70%);
+  border-image-slice: 1;
+ width: 60%;
+ margin-left: 40px;
+ font-family: 'Raleway', sans-serif;
+ padding: 20px;
+ line-height: 40px;
+}  
